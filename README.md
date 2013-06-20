@@ -1,10 +1,10 @@
-Visual Studio Bootstrap Snippets
-================================
+Visual Studio Bootstrap Code Snippets
+=====================================
 
-Visual Studio HTML Snippets for Bootstrap
+Visual Studio HTML / Javascript Code Snippets for Twitter Bootstrap framework
 
 ## Installation
-1. Download the zip file from this repository here: https://github.com/abrudtkuhl/Visual-Studio-Bootstrap-Snippets/archive/master.zip
+1. Download the zip file from this repository here: https://github.com/abrudtkuhl/Visual-Studio-Bootstrap-Snippets/zipball/master
 2. Extract the zip and drop the "Bootstrap Snippets" folder into the Documents > Visual Studio 2012 > Code Snippets folder on your computer
 3. In Visual Studio, navigate to Tools > Code Snippet Manager
 4. Select language "HTML" from the language dropdown menu
@@ -15,6 +15,9 @@ Visual Studio HTML Snippets for Bootstrap
 9. Repeat steps 5-7 for the "Documents/Visual Studio 2012/Code Snippets/Bootstrap Snippets/Bootstrap JavaScript" folder.
 10. Click "OK" to exit the Code Snippet Manager.
 11. Restart Visual Studio.
+
+## Download
+[v0.1](https://github.com/abrudtkuhl/Visual-Studio-Bootstrap-Snippets/zipball/master)
 
 ## Changelog
 
